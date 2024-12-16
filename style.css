@@ -1,7 +1,7 @@
 body {
 background-color: #e4d6ce; 
 background-image: url(paisley.webp);
-color:#524b46; 
+color: #524b46; 
 font-size: 50px; 
 font-family: 'la legende de korra', 'Book antiqua';
 }
@@ -21,7 +21,7 @@ max-width: 100%;
 max-height: 100%;
 }
 .accent-color {
-color:black
+color: black;
 }
 .box {
 margin: 137px;
@@ -34,7 +34,7 @@ align-items: top;
 gap: 10px;
 }
 .bottom-section { 
-color:#524b46;
+color: #524b46;
 font-size: 17px;
 margin-top: 50px;
 }
@@ -42,5 +42,5 @@ a {
 color: #b5410c; 
 }
 a:hover {
-color:#263554;
+color: #263554;
 }

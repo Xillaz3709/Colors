@@ -33,11 +33,6 @@ display: flex;
 align-items: top;
 gap: 10px;
 }
-.bottom-section { 
-color: #524b46;
-font-size: 17px;
-margin-top: 50px;
-}
 a {
 color: #b5410c; 
 }
